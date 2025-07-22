@@ -90,7 +90,7 @@ If you have any questions, you're always welcome to reach out ☀️.</p>
  height="25"/> 
 </a>
   <img width="12" />
-  <a href="lodhiastha85@gmail.com">
+  <a href="abhisheksingh90580@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 
