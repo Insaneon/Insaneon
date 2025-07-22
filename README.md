@@ -85,7 +85,7 @@ If you have any questions, you're always welcome to reach out ☀️.</p>
 
 <div align="center">
 
-<a align="center" width="100%" href="https://www.linkedin.com/in/astha-lodhi-266692278/">
+<a align="center" width="100%" href="https://www.linkedin.com/in/insaneon01/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" 
  height="25"/> 
 </a>
