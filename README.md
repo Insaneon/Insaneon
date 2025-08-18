@@ -61,17 +61,10 @@ If you have any questions, you're always welcome to reach out ☀️.</p>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=webwithastha.webwithastha&left_text=Views"  />
-</div>
-
-
-
 <hr/>
 
 
 
-<hr/>
 <div align="center">Connect me on🤝</div>
 
 ###
