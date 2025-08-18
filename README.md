@@ -55,8 +55,10 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="center">I'm a web developer passionate about creating user-friendly, responsive websites. My tech stack includes HTML, CSS, JavaScript, and the MERN stack. I enjoy learning new technologies and have built various frontend clones, full-stack projects, and API-based React apps. <br/> Check out my repos to explore the code and get started! <br/>
-If you have any questions, you're always welcome to reach out ☀️.</p>
+<p align="center">👋 Hey there! I’m Abhishek — a curious mind who loves blending web development with machine learning.
+On one side, I enjoy building sleek, responsive, and user-friendly web apps.
+On the other, I dive into ML projects, experimenting with data-driven solutions and AI-powered ideas.
+Always learning, sharing, and collaborating on projects that push creativity and technology forward.</p>
 
 
 ###
@@ -72,12 +74,11 @@ If you have any questions, you're always welcome to reach out ☀️.</p>
 <div align="center">
 
 <a align="center" width="100%" href="https://www.linkedin.com/in/insaneon01/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" 
- height="25"/> 
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"/> 
 </a>
   <img width="12" />
   <a href="abhisheksingh90580@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
   </a>
 
   </div>
