@@ -65,7 +65,7 @@ Always learning, sharing, and collaborating on projects that push creativity and
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"/> 
 </a>
   <img width="12" />
-  <a href="abhisheksingh90580@gmail.com">
+  <a href="abhishekKumarsingh.prof@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
   </a>
 
