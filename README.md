@@ -3,7 +3,7 @@ Hey there! I’m Abhishek — a curious mind who loves blending web development 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/insaneon01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekKumarsingh.prof@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/insaneon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekKumarsingh.prof@gmail.com) 
 
 # 💻 Tech Stack:
 <div align="center">
@@ -51,10 +51,10 @@ Hey there! I’m Abhishek — a curious mind who loves blending web development 
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Insaneon01&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Insaneon01&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Insaneon01&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Insaneon&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Insaneon&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Insaneon&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Insaneon01&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Insaneon&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 
