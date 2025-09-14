@@ -45,8 +45,6 @@ Hey there! I’m Abhishek — a curious mind who loves blending web development 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="github actions logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
 </div>
 
